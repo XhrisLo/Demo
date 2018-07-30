@@ -1,0 +1,4 @@
+
+Ceci est un essai sur VIM
+Je trouve que cela se passe plutôt bien
+Un essai

@@ -1,2 +1,2 @@
 # Demo
-Repository Démonstration
+Repository de Démonstration
